@@ -52,7 +52,7 @@ export default function About() {
               height={{xs: '35vh', md: '50vh'}}
               borderRadius={'50%'} p={'0.75rem'} mb={{xs: '1rem', sm: 0}} mr={{xs: 0, md: '2rem'}}/>
          <Box width={{xs: '35vh', md: '70vh'}}>
-            <h1>Hello! I'm <span class = "name">Sheri </span><span class="hand">🤚</span>
+            <h1>Hello! I'm <span class = "name">&#91; name &#93;</span><span class="hand">🥐</span>
             </h1>
             <h3>I'm an applied mathematics-economics and computer science student at Brown University. 
                 <br/>
