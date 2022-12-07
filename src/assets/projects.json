@@ -1,0 +1,26 @@
+[
+  {
+    "name": "personas & storyboarding",
+    "description": "exploring user behavior",
+    "image": "images/personas1.jpeg",
+    "link": "https://calmdog808.github.io/cs1300/personas&storyboarding.html"
+  },
+  {
+    "name": "responsive redesign",
+    "description": "refreshing the web design of a local Providence bakery",
+    "image": "images/frame1.png",
+    "link": "https://calmdog808.github.io/responsive-redesign/submission.html"
+  },
+  {
+    "name": "iterative design",
+    "description": "creating a mobile site for a vegan cat food start up",
+    "image": "images/tenlives.png",
+    "link": "https://calmdog808.github.io/iterative-design/"
+  },
+  {
+    "name": "TBD",
+    "description": "creating a mobile site for a vegan cat food start up",
+    "image": "images/mhpp.png",
+    "link": 7
+  }
+]
